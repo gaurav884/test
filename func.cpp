@@ -6,7 +6,9 @@ int main(){
    int a = 5;
    int b = 6;
    
-   cout<<"The result is "<<a+b<< " ";
+   int sum = a+b;
+   
+   cout<<"The result is "<<sum<< " ";
 
     return 0;
 }
